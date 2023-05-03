@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">Rolar</string>
-    <string name="roll">Girar</string>
-    <string name="txtSorte">número</string>
-    <string name="dado">dado</string>
-
-</resources>
